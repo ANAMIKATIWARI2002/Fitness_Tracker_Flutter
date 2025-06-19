@@ -41,7 +41,7 @@ flutter pub get
 
 - Update the app's configuration to point to your backend URL
 
-##  Tech Stack
+## 🛠️ Tech Stack
 - Frontend: Flutter (Dart)
 
 - Backend: MySQL (via APIs)
